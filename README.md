@@ -1,5 +1,5 @@
 # Java-MultiLineString
-You can now use multiline string in java. You have option to trim each line.
+You can now use multiline string in java. You also have an option to trim each line.
 
 Now you can write java program like PHP.
 
