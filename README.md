@@ -4,7 +4,7 @@ You can now use multiline string in java. You have option to trim each line.
 Now you can write java program like PHP.
 
 The following code
-
+<pre>
 String t = MultiLine.stringTrim(/*
 			Helloworld
 			This is 
@@ -12,17 +12,20 @@ String t = MultiLine.stringTrim(/*
 			Line
 			String
 			*/);
+</pre>
 			
 Equivalent to
-
+<pre>
 String t = "Helloworld"
 	+"This is "
 	+"Multi "
 	+"Line "
 	+"String";
-
+</pre>
 
 # Usage
+
+Dont forget to set the classpath to "MultiLineString.jar"
 
 <pre>
 
