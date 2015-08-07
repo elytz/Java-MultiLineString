@@ -1,5 +1,7 @@
 # Java-MultiLineString
-You can now use multiline string in java
+You can now use multiline string in java.
+
+You have option to trim each line
 
 # Usage
 
@@ -37,7 +39,7 @@ System.out.println(t);
 
 </pre>
 
-##output
+## Output
 <pre>
 
                         Helloworld
