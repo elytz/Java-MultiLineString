@@ -78,4 +78,10 @@ Line
 String
 </pre>
 
+## Note:
+1. This should work only when both your .class and .java file exist in same folder
+2. So this wont support inside any IDE.
 
+##Currently working on:
+1. Support Neatbeans and Eclipse IDE
+2. Simple batch / sh file to replace 'string' and 'stringTrim' function with exact string
