@@ -17,10 +17,10 @@ String t = MultiLine.stringTrim(/*
 Equivalent to
 <pre>
 String t = "Helloworld"
-	+"This is "
-	+"Multi "
-	+"Line "
-	+"String";
+	      + "This is "
+	      + "Multi "
+	      + "Line "
+	      + "String";
 </pre>
 
 # Usage
