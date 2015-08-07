@@ -1,7 +1,26 @@
 # Java-MultiLineString
-You can now use multiline string in java.
+You can now use multiline string in java. You have option to trim each line.
 
-You have option to trim each line
+Now you can write java program like PHP.
+
+The following code
+
+String t = MultiLine.stringTrim(/*
+			Helloworld
+			This is 
+			Multi
+			Line
+			String
+			*/);
+			
+Equivalent to
+
+String t = "Helloworld"
+	+"This is "
+	+"Multi "
+	+"Line "
+	+"String";
+
 
 # Usage
 
